@@ -18,7 +18,7 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br>
 
-Me apaixonei por programação a pouco tempo estou dedicando todo meu tempo para aprender, estou estudando analise e desemvolvimento de sistemas estou dando o meu melhor.
+Me apaixonei por programação a pouco tempo, dedicando todo meu tempo para aprender, estou Cursando analise e desenvolvimento de sistemas estou dando o meu melhor.
 
 ### Email para contato
 * Lucasdanniel35@gmail.com
