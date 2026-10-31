@@ -5,10 +5,6 @@ Ja me segue nas redes vizinhas:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-danniel-bb57671a5)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ooh_lusca?igshid=OGQ5ZDc2ODk2ZA==)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDanniel&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDanniel&hide_progress=true&theme=dracula)
-
 
 
 ### Tecnologias que eu uso no meu dia a dia
@@ -26,4 +22,4 @@ Ja me segue nas redes vizinhas:
 Estou dedicando todo meu tempo para aprender, estou Cursando analise e desenvolvimento de sistemas, estou dando o meu melhor.
 
 ### Email para contato
-* Lucasdanniel35@gmail.com
+* lucasdanniel35@gmail.com
